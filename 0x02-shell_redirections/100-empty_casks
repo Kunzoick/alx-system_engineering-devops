@@ -1,2 +1,2 @@
 #!/bin/bash
-find -empty -print "sf\n"
+find . -empty -printf "sf\n"
